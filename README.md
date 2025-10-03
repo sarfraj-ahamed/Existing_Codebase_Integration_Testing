@@ -1,1 +1,1 @@
-# tailwind_migration
+Import diverse codebases (full-stack, microservices, mobile) into KAVIA. Test manifest handling, code understanding, modification accuracy, regression impact. Document import blockers, implementation success rates, and architectural comprehension gaps.
